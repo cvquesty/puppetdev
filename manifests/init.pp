@@ -6,7 +6,6 @@
 #   include puppetdev
 class puppetdev {
 
-  include puppetdev::config
   include puppetdev::prep
   include puppetdev::post
   include puppetdev::plugins
